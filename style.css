@@ -1,0 +1,55 @@
+img {
+    width: 200px;
+    height: 200px;
+    background-color: white;
+    margin: 20px;
+}
+.container {
+    background-color: rgb(234, 234, 241);
+    width: 840px;
+    height: 918px;     
+}
+.title {
+    height: 80px;
+    margin: 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 50px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(78, 78, 78);
+}
+.row1 {
+    margin: 10px 20px 20px 20px;
+    background-color: rgb(72, 180, 255);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.row2 {
+    margin: 20px;
+    background-color: rgb(216, 144, 170);
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    
+}
+.row3 {
+    margin: 20px 20px 15px 20px;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    
+}
+.link1 {
+    height: 40px;
+    display: flex;
+    font-size: 16px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: lighter;
+    color: rgb(156, 156, 156);
+    align-items:center;
+    justify-content: center;
+
+}
